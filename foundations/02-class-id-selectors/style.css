@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(247, 171, 183);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+#big-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#shrek {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
